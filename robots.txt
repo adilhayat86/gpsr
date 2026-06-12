@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adilhayat86.github.io/gpsr/sitemap.xml
