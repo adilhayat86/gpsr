@@ -1,11 +1,10 @@
-# SafeList Builder
+# Seller Safety Studio
 
 Static website for small online seller templates.
 
 ## Project
 
-This repo is for the SafeList Builder website and the GPSR digital product funnel.
-
+This repo is for the Seller Safety Studio website and the GPSR digital product funnel.
 ## Publish
 
 Use GitHub Pages from the main branch and root folder.
